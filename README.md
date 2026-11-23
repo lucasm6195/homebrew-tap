@@ -9,4 +9,4 @@ brew install --cask lucasm6195/tap/faro
 
 `brew trust` hace falta desde que Homebrew pide confirmar los taps de terceros.
 
-- **[Faro](https://github.com/lucasm6195/faro)**: terminal nativa para macOS pensada para trabajar con Claude Code.
+- **[Faro](https://github.com/lucasm6195/faro)**: terminal nativa y ligera para macOS.

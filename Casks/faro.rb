@@ -4,7 +4,7 @@ cask "faro" do
 
   url "https://github.com/lucasm6195/faro/releases/download/v#{version}/Faro-#{version}.zip"
   name "Faro"
-  desc "Terminal nativa pensada para trabajar con Claude Code"
+  desc "Terminal nativa y ligera con sugerencias, bloques, git y puertos"
   homepage "https://github.com/lucasm6195/faro"
 
   livecheck do
